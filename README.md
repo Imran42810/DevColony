@@ -40,10 +40,31 @@ DevColony is a streamlined, self-hosted GitHub alternative designed for teams an
 ---
 
 ## ⚙️ Tech Stack
-| 🚀 Layer       | 🛠️ Technology                 |
-|---------------|-------------------------------|
+
+### 🗄️ Database Configuration
+- MongoDB
+
+### 🧪 Testing Framework
+- Jest
+
+### 🚀 Deployment Platform
+- AWS
+
+### ⚙️ Backend Technologies
+- Node.js
+- Express.js
+- yargs
+
+### 🖥️ Frontend Technologies
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+
+---------------|-------------------------------|
 | **Backend**   | Node.js, Express.js, MongoDB  |
-| **Frontend**  | React, TypeScript, Vite       |
+| **Frontend**  | React, JavaScript, Vite       |
 | **CI/CD**     | GitHub Actions                |
 
 ---
